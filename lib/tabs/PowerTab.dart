@@ -38,7 +38,7 @@ class _PowerTabState extends State<PowerTab> with AutomaticKeepAliveClientMixin 
               child: RaisedButton(
                 color: Colors.blue,
                 child: Text(
-                  'Add',
+                  'Power',
                   style: TextStyle(
                     color: Colors.white
                   ),

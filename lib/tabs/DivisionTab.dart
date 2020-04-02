@@ -38,7 +38,7 @@ class _DivisionTabState extends State<DivisionTab> with AutomaticKeepAliveClient
               child: RaisedButton(
                 color: Colors.blue,
                 child: Text(
-                  'Add',
+                  'Divide',
                   style: TextStyle(
                     color: Colors.white
                   ),

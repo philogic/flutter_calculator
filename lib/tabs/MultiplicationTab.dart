@@ -37,7 +37,7 @@ class _MultiplicationTabState extends State<MultiplicationTab> with AutomaticKee
               child: RaisedButton(
                 color: Colors.blue,
                 child: Text(
-                  'Add',
+                  'Multiply',
                   style: TextStyle(
                     color: Colors.white
                   ),

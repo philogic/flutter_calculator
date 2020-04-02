@@ -39,7 +39,7 @@ class _SubtractionTabState extends State<SubtractionTab> with AutomaticKeepAlive
               child: RaisedButton(
                 color: Colors.blue,
                 child: Text(
-                  'Add',
+                  'Subtract',
                   style: TextStyle(
                     color: Colors.white
                   ),
